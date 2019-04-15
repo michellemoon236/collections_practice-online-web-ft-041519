@@ -13,9 +13,13 @@
       
   end
   
-  def swap_elements
+  def swap_elements (array)
     #swap the second and third elements of an array (FAILED - 4)
-     
+    second = array[1] 
+    third = array[2]
+    array[1] = third
+    array[2] = second
+    array
   end
   
   def reverse_array (array)
