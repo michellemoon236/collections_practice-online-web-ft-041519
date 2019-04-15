@@ -29,7 +29,8 @@
   
   def kesha_maker (array)
     #taking an array as an input, change the 3rd character of each element to a dollar sign. (FAILED - 6)
-      
+    array.collect do |string|
+      string
   end
   
   def find_a (array)
