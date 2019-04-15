@@ -5,6 +5,8 @@
   
   def sort_array_desc
     #should return an array sorted in descending order (FAILED - 2)
+      
+  end
   
   def sort_array_char_count
     #should return an array in ascending order sorted by the number of characters in the string (FAILED - 3)
