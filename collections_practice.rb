@@ -3,7 +3,7 @@
     array.sort 
   end
   
-  def sort_array_desc
+  def sort_array_desc (array)
     #should return an array sorted in descending order (FAILED - 2)
     array.sort.reverse 
   end
