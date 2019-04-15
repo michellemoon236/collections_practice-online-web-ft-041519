@@ -5,7 +5,7 @@
   
   def sort_array_desc
     #should return an array sorted in descending order (FAILED - 2)
-      
+    array.sort.reverse 
   end
   
   def sort_array_char_count
