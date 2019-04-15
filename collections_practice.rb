@@ -18,9 +18,9 @@
      
   end
   
-  def reverse_array
+  def reverse_array (array)
     #reverse the order of an array of integers (FAILED - 5)
-      
+    array.reverse
   end
   
   def kesha_maker
@@ -28,9 +28,11 @@
       
   end
   
-  def find_a
+  def find_a (array)
     #find all words that begin with "a" in the following array (FAILED - 7)
-      
+    array.select do |i|
+      i.start_with?("a")
+    end
   end
   
   def sum_array
