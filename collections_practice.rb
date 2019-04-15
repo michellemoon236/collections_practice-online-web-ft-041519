@@ -35,6 +35,9 @@
   
   def sum_array
     #sum all the numbers in the following array (FAILED - 8)
+      
+  end
+  
   def add_s
     #Add an "s" to each word in the array except for the 2nd element in the array (FAILED - 9)
 
