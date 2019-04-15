@@ -49,13 +49,12 @@
   
   def add_s (array)
     #Add an "s" to each word in the array except for the 2nd element in the array (FAILED - 9)
-    array.each_with_index.map do |word, index|
+    array.map.with_index do |word, index|
       if index = 1
         word
       else
         word << "s"
       end
     end
-    array
   end
 
