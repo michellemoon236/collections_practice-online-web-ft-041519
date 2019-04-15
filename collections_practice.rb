@@ -54,6 +54,7 @@
         word
       else
         word << "s"
+        binding.pry
       end
     end
     array
