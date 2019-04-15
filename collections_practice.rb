@@ -49,6 +49,6 @@
   
   def add_s (array)
     #Add an "s" to each word in the array except for the 2nd element in the array (FAILED - 9)
-    
+    if array.index
   end
 
