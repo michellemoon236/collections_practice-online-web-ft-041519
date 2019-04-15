@@ -10,6 +10,9 @@
   
   def sort_array_char_count
     #should return an array in ascending order sorted by the number of characters in the string (FAILED - 3)
+      
+  end
+  
   def swap_elements
     #swap the second and third elements of an array (FAILED - 4)
   def reverse_array
