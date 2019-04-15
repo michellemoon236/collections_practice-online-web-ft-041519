@@ -10,8 +10,7 @@
   
   def sort_array_char_count (array)
     #should return an array in ascending order sorted by the number of characters in the string (FAILED - 3)
-    array.sort_by do {|i| i.length}
-  end
+    array.sort_by {|i| i.length}
   end
   
   def swap_elements (array)
