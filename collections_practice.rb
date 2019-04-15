@@ -41,7 +41,7 @@
   
   def sum_array (array)
     #sum all the numbers in the following array (FAILED - 8)
-      
+    array.sum
   end
   
   def add_s (array)
