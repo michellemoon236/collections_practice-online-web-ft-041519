@@ -8,9 +8,10 @@
     array.sort.reverse 
   end
   
-  def sort_array_char_count
+  def sort_array_char_count (array)
     #should return an array in ascending order sorted by the number of characters in the string (FAILED - 3)
-      
+    array.sort_by do {|i| i.length}
+  end
   end
   
   def swap_elements (array)
@@ -27,7 +28,7 @@
     array.reverse
   end
   
-  def kesha_maker
+  def kesha_maker (array)
     #taking an array as an input, change the 3rd character of each element to a dollar sign. (FAILED - 6)
       
   end
@@ -39,12 +40,12 @@
     end
   end
   
-  def sum_array
+  def sum_array (array)
     #sum all the numbers in the following array (FAILED - 8)
       
   end
   
-  def add_s
+  def add_s (array)
     #Add an "s" to each word in the array except for the 2nd element in the array (FAILED - 9)
     
   end
