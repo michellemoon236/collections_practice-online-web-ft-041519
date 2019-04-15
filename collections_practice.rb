@@ -15,6 +15,9 @@
   
   def swap_elements
     #swap the second and third elements of an array (FAILED - 4)
+     
+  end
+  
   def reverse_array
     #reverse the order of an array of integers (FAILED - 5)
   def kesha_maker
