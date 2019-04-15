@@ -52,12 +52,12 @@
   def add_s (array)
     #Add an "s" to each word in the array except for the 2nd element in the array (FAILED - 9)
     array.map.with_index do |word, index|
-      binding.pry
+      #binding.pry
       if index == 1
         word
       else
         word << "s"
-        binding.pry
+        #binding.pry
       end
     end
   end
