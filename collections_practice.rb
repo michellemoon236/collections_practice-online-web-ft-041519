@@ -1,6 +1,6 @@
-  def sort_array_asc
+  def sort_array_asc (array)
     #should return an array sorted in ascending order (FAILED - 1)
-    
+    array.sort 
   end
   
   def sort_array_desc
@@ -40,4 +40,6 @@
   
   def add_s
     #Add an "s" to each word in the array except for the 2nd element in the array (FAILED - 9)
+    
+  end
 
