@@ -31,6 +31,7 @@
     #taking an array as an input, change the 3rd character of each element to a dollar sign. (FAILED - 6)
     array.collect do |string|
       string[2]="$"
+      array
     end
   end
   
