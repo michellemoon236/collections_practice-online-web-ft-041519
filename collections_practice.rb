@@ -60,6 +60,5 @@
         binding.pry
       end
     end
-    array
   end
 
