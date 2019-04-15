@@ -1,3 +1,5 @@
+  require "pry"
+  
   def sort_array_asc (array)
     #should return an array sorted in ascending order (FAILED - 1)
     array.sort 
