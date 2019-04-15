@@ -25,6 +25,9 @@
   
   def kesha_maker
     #taking an array as an input, change the 3rd character of each element to a dollar sign. (FAILED - 6)
+      
+  end
+  
   def find_a
     #find all words that begin with "a" in the following array (FAILED - 7)
   def sum_array
