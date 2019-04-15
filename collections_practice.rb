@@ -56,5 +56,6 @@
         word << "s"
       end
     end
+    array
   end
 
