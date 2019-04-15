@@ -20,6 +20,9 @@
   
   def reverse_array
     #reverse the order of an array of integers (FAILED - 5)
+      
+  end
+  
   def kesha_maker
     #taking an array as an input, change the 3rd character of each element to a dollar sign. (FAILED - 6)
   def find_a
