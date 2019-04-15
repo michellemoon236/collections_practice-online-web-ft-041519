@@ -30,6 +30,9 @@
   
   def find_a
     #find all words that begin with "a" in the following array (FAILED - 7)
+      
+  end
+  
   def sum_array
     #sum all the numbers in the following array (FAILED - 8)
   def add_s
